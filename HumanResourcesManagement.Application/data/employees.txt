@@ -1,0 +1,2 @@
+First Name:Emirhan;Last Name:Caliskan ;Age:22;Email:Emirhaner#gmajdas;Birth Date:1/1/2001 12:00:00 AM;Hourly Rate:23;Type:2;
+First Name:Alihan;Last Name:Caliskan;Age:34;Email:alihancalisk@gmail.com;Birth Date:2/2/2002 12:00:00 AM;Hourly Rate:34;Type:3;

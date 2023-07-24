@@ -1,0 +1,15 @@
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/bin/Debug/net7.0/HumanResourcesManagement.Application
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/bin/Debug/net7.0/HumanResourcesManagement.Application.deps.json
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/bin/Debug/net7.0/HumanResourcesManagement.Application.runtimeconfig.json
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/bin/Debug/net7.0/HumanResourcesManagement.Application.dll
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/bin/Debug/net7.0/HumanResourcesManagement.Application.pdb
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/HumanResourcesManagement.Application.csproj.AssemblyReference.cache
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/HumanResourcesManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/HumanResourcesManagement.Application.AssemblyInfoInputs.cache
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/HumanResourcesManagement.Application.AssemblyInfo.cs
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/HumanResourcesManagement.Application.csproj.CoreCompileInputs.cache
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/HumanResourcesManagement.Application.dll
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/refint/HumanResourcesManagement.Application.dll
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/HumanResourcesManagement.Application.pdb
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/HumanResourcesManagement.Application.genruntimeconfig.cache
+/Users/emir/Projects/HumanResourcesManagement.Application/HumanResourcesManagement.Application/obj/Debug/net7.0/ref/HumanResourcesManagement.Application.dll
